@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/web/HomePage.jsp</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/src/java/nguyenla/controller/GetHistory.java</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/web/AddFood.jsp</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/web/UserHistory.jsp</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/web/UpdateFood.jsp</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/src/java/nguyenla/controller/CheckOutCart.java</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/web/RecordHistory.jsp</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/src/java/nguyenla/controller/ShoppingManager.java</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/web/SearchFood.jsp</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/src/java/nguyenla/controller/GetInfoUpdate.java</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/src/java/nguyenla/controller/UpdateCartServlet.java</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/web/ShoppingCart.jsp</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/web/LoginAccount.jsp</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/src/java/nguyenla/validation/Valid.java</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/web/DeleteRecord.jsp</file>
+        </group>
+        <group name="JavaWeb_Lab_Spring2021">
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/src/java/nguyenla/tblfood/FoodDAO.java</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/web/META-INF/context.xml</file>
+            <file>file:/D:/Spring%202021/Lab%20JavaWeb/Assigment_P013_LeAnhNguyen/src/java/nguyenla/controller/LoadHomePage.java</file>
+        </group>
+    </open-files>
+</project-private>
